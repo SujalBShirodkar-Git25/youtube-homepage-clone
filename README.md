@@ -1,1 +1,2 @@
+## https://sujalbshirodkar-git25.github.io/youtube-homepage-clone/
 Developed a responsive YouTube homepage clone using only HTML and CSS. Implemented a structured layout with Flexbox and Grid for alignment, ensuring a clean and modern UI. Designed a navigation bar, video thumbnails, and sidebar elements while maintaining responsiveness across different screen sizes. Focused on proper semantic HTML and optimized CSS for better maintainability.
